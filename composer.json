@@ -1,0 +1,19 @@
+{
+    "name": "larakit/sf-jquery-attrs",
+    "description": "[Larakit][lk-staticfiles] jquery.attrs.js",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexey Berdnikov",
+            "email": "aberdnikov@gmail.com"
+        }
+    ],    
+    "require": {
+        "larakit/sf-jquery": "*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
